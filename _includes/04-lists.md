@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Coding
+* Doing more coding
+* Teaching
+* Motorcycling
